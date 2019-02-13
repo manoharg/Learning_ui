@@ -1,0 +1,16 @@
+1. selecting tags
+2. selecting with classes and ids
+3. specificity (p.class))
+4. Text: text-family, font-size , text-align
+5. color(foreground-color), background-color
+6.Opacity: 0 to 1(0 means not visible)
+5. selecting nested elements(.class ul li)
+6. Pseudo classes are bolted on to selectors to specify a state or relation to the selector
+7. >---> A greater-than symbol (“>”) can be used to specify something that is a child of something else, that is, something "immediately" nested within something.
+Eg: <ul> <li>1</li>
+<li></li> </ul>
+here both li's will be selected.
+8.+  --> immediately following
+Facts and observations:
+1.Browser's default font-size is 16 px. 2 em means 2 times the current font-size
+2.clear:left--> no floated elements are allowed on left 

@@ -1,0 +1,14 @@
+#navigation {
+  float: left;
+  clear: both;
+    width: 200px;
+    border: 1px solid red;
+}
+
+#content {
+    display: inline-block;
+    float: right;
+    margin-left: 200px;
+
+}
+#genus_examples > li { border: 1px solid red }
